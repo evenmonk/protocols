@@ -1,0 +1,10 @@
+Some text, including
+	multilining, 
+	tabs, non-ascii ©ha®s 
+	and кириллицу
+.
+test dots in start of the line.
+...
+.
+...
+....
