@@ -17,6 +17,6 @@ SMTP клиент для работы с почтовым сервером Ян�
 ``` python smtp_client.py ```
 
 ## Пример запуска
-![https://imgur.com/a/Y9zh4F9](github.com/evenmonk/protocols/smtp_client/example.jpg)]
+![https://imgur.com/a/Y9zh4F9](https://github.com/evenmonk/protocols/blob/master/smtp_client/example.png)]
 
 Выполнил студент группы МО-202 МЕН-282203 Эрделевский Евгений
