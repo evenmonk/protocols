@@ -15,6 +15,6 @@
   - Пробрасываем пакет клиенту
 
 # Пример запуска
-![https://imgur.com/a/DrkL3vI]((https://github.com/evenmonk/protocols/blob/master/sntp_server/example.png)
+![https://imgur.com/a/DrkL3vI](https://github.com/evenmonk/protocols/blob/master/sntp_server/example.png)
 
 Выполнил студент группы МО-202 МЕН-282203 Эрделевский Евгений
