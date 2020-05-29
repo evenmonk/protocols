@@ -8,7 +8,7 @@
 
 ## Запуск скрипта
 ```
-$ python port_scanner.py host [-h] [-l L] [-r R] [-t T]
+$ python port_scanner.py host [-h] [-l L] [-r R] [-p T] [-tcp] [-udp]
 ```
 
 Позиционные аргументы:
