@@ -29,6 +29,6 @@ Argument | Description
 -udp | Сканировать открытые UDP порты
 
 ## Пример запуска
-![https://imgur.com/a/zBZIC6E]((https://github.com/evenmonk/protocols/blob/master/portscan/example.png))
+![https://imgur.com/a/zBZIC6E](https://github.com/evenmonk/protocols/blob/master/portscan/example.png)
 
 Выполнил студент группы МО-202 МЕН-282203 Эрделевский Евгений
