@@ -25,6 +25,6 @@ dig +notcp @127.0.0.1 -p 2222 google.com A
 ```
 Список остальных типов записей указан в файле resolver.py
 ![https://imgur.com/a/uJUTWsS](https://github.com/evenmonk/protocols/blob/master/dns_server/example.png)
-![https://imgur.com/a/CPpKlyz](https://github.com/evenmonk/protocols/blob/master/dns_server/example2.png)
+![https://imgur.com/a/CPpKlyz](https://github.com/evenmonk/protocols/blob/master/dns_server/example2.jpg)
 
 Выполнил студент группы МО-202 МЕН-282203 Эрделевский Евгений
